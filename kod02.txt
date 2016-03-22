@@ -1,3 +1,7 @@
-kod test 2 
+class kod {
 
-na twoje zyczenie rozbudowuje kod :D
+void rozbudowanyKod(){
+	ktory cos robi;
+}
+
+}
