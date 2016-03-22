@@ -3,7 +3,7 @@ if (a<b){
 	if(cos sie stalo) dzieje sie cos;
 	for (int i=0; i++; i<10) {
  		a=b;
-		b=c;
+		b=c*a;
 		c=d;
 	}
 }
